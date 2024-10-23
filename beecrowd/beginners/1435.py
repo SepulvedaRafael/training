@@ -49,7 +49,6 @@ while True:
 			print()
 		print()
 '''
-
 while True:
 	n = int(input())
 
