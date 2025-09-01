@@ -1,12 +1,5 @@
-n = 6
+from math import sqrt
 
-num = 0
-l = 1
-m = 0
+n = int(input())
 
-for j in range(n):
-	num = m + l
-	m = l
-	l = num
-
-	print(m)
+print(f"{((((1  + sqrt(5)) / 2)**n) - (((1  - sqrt(5)) / 2)**n)) / sqrt(5):.1f}")
