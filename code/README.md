@@ -1,2 +1,0 @@
-# codeforces
-Exercises of CodeForces
